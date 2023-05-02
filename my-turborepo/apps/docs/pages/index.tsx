@@ -1,10 +1,10 @@
-import { Button } from "ui";
+import { Button } from "../../../packages/components";
 
 export default function Docs() {
   return (
     <div>
-      <h1>Docs</h1>
-      <Button />
+      <h1>Hello</h1>
+      <Button size="medium" label="IM A BUTTON YAY"/>
     </div>
   );
 }

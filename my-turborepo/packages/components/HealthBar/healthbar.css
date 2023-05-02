@@ -1,0 +1,15 @@
+.container {
+    height: 50px;
+    width: 250px;
+    background-color: pink;
+    position: absolute;
+}
+
+.Left {
+    left: 0;
+}
+
+.Right {
+    position: absolute;
+    right: 0;
+}
