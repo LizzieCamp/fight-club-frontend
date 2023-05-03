@@ -1,4 +1,5 @@
-import { Button, HealthBar } from "../../../packages/components";
+import { Button, HealthBar } from "components";
+
 export default function FightClub() {
   return (
     <div>
