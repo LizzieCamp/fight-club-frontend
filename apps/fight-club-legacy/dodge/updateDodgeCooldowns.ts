@@ -1,5 +1,5 @@
 import { StateUpdater } from '../characters/types';
-import { willDodge } from '../dodge/willDodge';
+import { willDodge } from './willDodge';
 
 export const updateDodgeCooldowns: StateUpdater = (state) => {
     const newState = { ...state };
